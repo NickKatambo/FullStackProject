@@ -1,7 +1,6 @@
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Debug\netcoreapp3.1\GoodBooks.Services.deps.json
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Debug\netcoreapp3.1\GoodBooks.Services.dll
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Debug\netcoreapp3.1\GoodBooks.Services.pdb
-C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.csprojAssemblyReference.cache
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.AssemblyInfoInputs.cache
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.AssemblyInfo.cs
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.csproj.CoreCompileInputs.cache

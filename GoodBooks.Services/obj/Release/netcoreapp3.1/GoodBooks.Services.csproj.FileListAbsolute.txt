@@ -1,0 +1,11 @@
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Release\netcoreapp3.1\GoodBooks.Services.deps.json
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Release\netcoreapp3.1\GoodBooks.Services.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Release\netcoreapp3.1\GoodBooks.Services.pdb
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Release\netcoreapp3.1\GoodBooks.Data.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\bin\Release\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.AssemblyInfoInputs.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.AssemblyInfo.cs
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.csproj.CoreCompileInputs.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.csproj.CopyComplete
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Services\obj\Release\netcoreapp3.1\GoodBooks.Services.pdb

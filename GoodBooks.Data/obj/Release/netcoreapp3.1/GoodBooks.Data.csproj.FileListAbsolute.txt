@@ -1,0 +1,9 @@
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\bin\Release\netcoreapp3.1\GoodBooks.Data.deps.json
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\bin\Release\netcoreapp3.1\GoodBooks.Data.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\bin\Release\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.csprojAssemblyReference.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.AssemblyInfoInputs.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.AssemblyInfo.cs
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.csproj.CoreCompileInputs.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Release\netcoreapp3.1\GoodBooks.Data.pdb

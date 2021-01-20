@@ -35,3 +35,15 @@ C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\obj\Debug\net5.0\ref\GoodBooks.Web.
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\obj\Debug\net5.0\GoodBooks.Web.pdb
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\obj\Debug\net5.0\GoodBooks.Web.genruntimeconfig.cache
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\obj\Debug\net5.0\GoodBooks.Web.csprojAssemblyReference.cache
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Npgsql.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\GoodBooks.Data.dll
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Web\bin\Debug\net5.0\GoodBooks.Data.pdb

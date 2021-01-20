@@ -6,3 +6,4 @@ C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.csproj.CoreCompileInputs.cache
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.dll
 C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Yann\Learning\Web\GoodBooks\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.csprojAssemblyReference.cache
